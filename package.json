@@ -1,0 +1,9 @@
+{
+  "name": "@holdy/gamut",
+  "version": "0.0.1",
+  "main": "run.js",
+  "license": "MIT",
+  "bin": {
+    "gamut": "cli.js"
+  }
+}
